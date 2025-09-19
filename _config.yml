@@ -1,0 +1,5 @@
+title: "St. Marina Coding Class"
+description: "Programming & Computer Architecture lessons"
+theme: jekyll-theme-cayman
+markdown: kramdown
+highlighter: rouge
