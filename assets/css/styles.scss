@@ -25,14 +25,14 @@
   }
 }
 
-/* Hiding GitHub Pages branding */
-/* Top-right button */
-.github-button,
-#forkme_banner {
+/* Hiding GitHub Pages branding for Slate theme */
+/* Removing top-right 'View on GitHub' */
+header .button,
+header .btn,
+header .github-button {
   display: none !important;
 }
-/* Footer section */
-footer,
-.site-footer {
+/* Removing footer */
+footer {
   display: none !important;
 }
