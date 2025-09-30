@@ -3,28 +3,6 @@
 
 @import "{{ site.theme }}";
 
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #121212;
-    color: #e0e0e0;
-  }
-
-  a {
-    color: #58a6ff;
-  }
-
-  h1, h2, h3, h4, h5, h6 {
-    color: #ffffff;
-  }
-
-  .site-header,
-  .site-footer {
-    background: #1a1a1a;
-    border: none;
-  }
-}
-
 /* Hiding GitHub Pages branding for Slate theme */
 /* Removing top-right 'View on GitHub' */
 footer {
