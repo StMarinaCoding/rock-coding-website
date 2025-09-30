@@ -27,12 +27,10 @@
 
 /* Hiding GitHub Pages branding for Slate theme */
 /* Removing top-right 'View on GitHub' */
-header .button,
-header .btn,
-header .github-button {
+footer {
   display: none !important;
 }
-/* Removing footer */
-footer {
+
+.btn {
   display: none !important;
 }
