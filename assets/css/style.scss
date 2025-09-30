@@ -3,12 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Hiding GitHub Pages branding for Slate theme */
-/* Removing top-right 'View on GitHub' */
-footer {
-  display: none !important;
-}
+// footer {
+//   display: none !important;
+// }
 
-.btn {
-  display: none !important;
-}
