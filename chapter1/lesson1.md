@@ -92,13 +92,11 @@ Notice:
 * A function is a reusable block of code.
 * `print` is a built-in function that shows output on the screen.
 
-👉 At the bottom of this page, you’ll find your assignment link.
-Try writing your own `print` statements.
+At the bottom of this page, you’ll find your assignment link.
+Try writing your own `print` statements!
 
 ---
 
 ## Assignment
 
-[👉 Do Assignment 1 on GitHub Classroom](https://classroom.github.com/a/vRnEQcgA)
-
-```
+[**Click Here to Do Assignment 1 on GitHub Classroom**](https://classroom.github.com/a/vRnEQcgA)
